@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gacha/static/css/main.db5bf261.css",
+    "main.js": "/Gacha/static/js/main.df325e17.js",
+    "static/js/787.e6376d77.chunk.js": "/Gacha/static/js/787.e6376d77.chunk.js",
+    "index.html": "/Gacha/index.html",
+    "main.db5bf261.css.map": "/Gacha/static/css/main.db5bf261.css.map",
+    "main.df325e17.js.map": "/Gacha/static/js/main.df325e17.js.map",
+    "787.e6376d77.chunk.js.map": "/Gacha/static/js/787.e6376d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5bf261.css",
+    "static/js/main.df325e17.js"
+  ]
+}
